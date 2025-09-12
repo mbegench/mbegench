@@ -1,7 +1,9 @@
+<img align="center" src="https://cdn.pixabay.com/photo/2019/06/22/14/06/mountain-4291627_1280.png" alt="" height="100" width="200" />
+
+
 <h1 align="center">Hi 👋, I'm Begench</h1>
 <h3 align="center">💻 Flutter & Rust Developer | Mobile & Backend Engineer 🚀</h3>
 
-<video src="https://cdn.dribbble.com/userupload/29422586/file/original-6c0c1315a649b7716c371ce8855f1d57.mp4" width="400" autoplay loop controls></video>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mbegench&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
