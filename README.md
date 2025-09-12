@@ -1,4 +1,4 @@
-<img align="center" src="https://cdn.pixabay.com/photo/2019/06/22/14/06/mountain-4291627_1280.png" alt="" height="100" width="200" />
+<img align="center" src="https://cdn.pixabay.com/photo/2019/06/22/14/06/mountain-4291627_1280.png" alt="" height="200" width="300" />
 
 
 <h1 align="center">Hi 👋, I'm Begench</h1>
